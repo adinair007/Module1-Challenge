@@ -1,4 +1,4 @@
-# Module1-Challenge
+# Horiseon Refactor
 Deployed link: https://adinair007.github.io/Horiseon_Refactor/
 
 ## Description
