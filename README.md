@@ -11,3 +11,5 @@ The HTML source code has been refractored to allow for improved accessibilty in 
 5. Heading attributes now fall in a sequential order
 
 ## Screenshot
+![Horiseon1](https://user-images.githubusercontent.com/112667543/205474925-cc49b616-1cc4-4915-8fe1-2bd58aa770bc.png)
+![Horiseon2](https://user-images.githubusercontent.com/112667543/205474928-4c777613-5eca-4947-8cc1-8a0d1b8a6f45.png)
