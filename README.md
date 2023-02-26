@@ -1,5 +1,5 @@
 # Horiseon Refactor
-Deployed link: https://adinair007.github.io/Horiseon_Refactor/
+Deployed link: https://adinair007.github.io/The_Amazing_Horiseon_Refactor/
 
 ## Description
 
